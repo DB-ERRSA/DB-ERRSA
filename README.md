@@ -16,16 +16,13 @@ Custom Minecraft server software, web services, and supporting resources for the
 | [PlayerQuests](https://github.com/DB-ERRSA/PlayerQuests) | Player quests and blueprint functionality |
 | [Rank-Progression](https://github.com/DB-ERRSA/Rank-Progression) | Rank progression |
 | [BannerBuilder](https://github.com/DB-ERRSA/BannerBuilder) | Banner-building features |
-| [ShulkerReroute](https://github.com/DB-ERRSA/ShulkerReroute) | Shulker routing from the End |
-| [AutoUnlockPvPDrops](https://github.com/DB-ERRSA/AutoUnlockPvPDrops) | Automatic unlocking of PvP death drops |
 
 ### Websites & Documentation
 
 | Repository | Purpose |
 | --- | --- |
 | [ERRSA-Staff-Wiki](https://github.com/DB-ERRSA/ERRSA-Staff-Wiki) | Staff handbook, training, and operational documentation |
-| [errsa-mc-knowledgebase](https://github.com/DB-ERRSA/errsa-mc-knowledgebase) | Minecraft system and plugin reference material |
-| [errsa-mc-status](https://github.com/DB-ERRSA/errsa-mc-status) | Server status website |
+| [ERRSA-MC-Handbook](https://github.com/DB-ERRSA/ERRSA-Minecraft-Handbook) | Server website + ERRSA MC Discord bot |
 
 ### Resource Packs
 
